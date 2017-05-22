@@ -1,0 +1,2 @@
+# RoRBt
+Prototype Discord Bot
